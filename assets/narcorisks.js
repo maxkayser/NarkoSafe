@@ -7,7 +7,7 @@
  * Version: 1.0
  */
 
-const risksUrl = 'https://raw.githubusercontent.com/maxkayser/NarkoSafe/main/data/risks.json';
+const risksUrl = 'https://raw.githubusercontent.com/maxkayser/NarcoRisks/main/data/risks.json';
 let risksData = {};
 let allRisks = [];
 
