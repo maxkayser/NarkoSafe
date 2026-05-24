@@ -49,4 +49,4 @@ Use is at your own responsibility.
 
 ---
 
-© 2025 – Max Kayser
+© 2026 – Max Kayser
