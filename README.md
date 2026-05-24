@@ -32,6 +32,12 @@ NarcoRisks is an interactive, multilingual platform designed to visualize risks 
 - Medical students and trainees  
 - Researchers in patient safety and quality management
 
+## Support
+
+If you find this project useful, you can support independent development here:
+
+☕ [Buy me a coffee](https://buymeacoffee.com/maxkayser)
+
 ## License
 See the LICENSE file for full details.
 
